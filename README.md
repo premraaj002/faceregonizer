@@ -4,7 +4,7 @@ Requriements:
   3.numpy module
   4.arduino ide
   5.arduino nano board
-  6.servo motor
+  6.servo motor-1
   7.bread board
 
 
